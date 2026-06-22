@@ -21,6 +21,7 @@ Data is transmitted only to user-controlled and explicitly allowed endpoints:
 
 http://localhost:3000
 https://*.fortilab.net
+
 Data storage
 
 The extension does not permanently store any cookies or authentication data. All processing occurs in memory and data is immediately discarded after transmission.
